@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Ini commit kedua")
-        ini commit test
+        today is a good day
     }
 }
