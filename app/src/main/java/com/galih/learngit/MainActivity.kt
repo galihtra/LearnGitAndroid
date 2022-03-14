@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Ini commit kedua")
         println("Ini commit kelima")
-        println("feature commit")
+        println("commit 2 Exprimental")
+        println("Ini commit dari branch Exprimental")
     }
 }
